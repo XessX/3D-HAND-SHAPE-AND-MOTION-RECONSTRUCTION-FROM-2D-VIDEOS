@@ -12,4 +12,5 @@ then run <br />
 `python main.py` <br />
 
 This provides the result by taking the input of a video and providing an output of the 3d hands. <br />
-The project report follows the MacSphere Project reports from here https://macsphere.mcmaster.ca/handle/11375/27/simple-search?filterquery=Computing+and+Software&filtername=department&filtertype=equals .
+The project report follows the MacSphere Project reports from here https://macsphere.mcmaster.ca/handle/11375/27/simple-search?filterquery=Computing+and+Software&filtername=department&filtertype=equals . <br />
+The project demos are provided in the demos folder.
