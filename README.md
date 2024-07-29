@@ -1,5 +1,5 @@
 The project is My Final Project issued from McMaster Universities Computing and Software Department. <br />
-Dr. YingYing Wang is being the supervisor of my project and the project was handled fully by me.<br />
+Dr. YingYing Wang from the Computing and Software department is being the supervisor of my project and the project was handled fully by me.<br />
 The project works using ACR https://semanticdh.github.io/ACR/ and Mano https://mano.is.tue.mpg.de/ and the videos were taken from this pre-trained Sign language dataset https://how2sign.github.io/ <br />
 Instructions to install and work- <br />
 (works over python 3.8.8) <br />
